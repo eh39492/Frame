@@ -18,12 +18,12 @@ Made entirely in Onshape using common tools.
 
 ## Images
 
-one photo
+assembled form
 <img width="573" height="660" alt="Screenshot 2026-11-11 203441" src="https://github.com/user-attachments/assets/1709ce90-ba2c-4a80-ba98-cf71ce6ad73c" />
 
 
-Other photo option
+One photo option
 <img width="682" height="987" alt="Screenshot 2026-11-11 203311" src="https://github.com/user-attachments/assets/5de4ac3d-c0d6-46dc-9ddf-fe5f81e1a4b5" />
 
-Assembled form.
+Other photo option
 <img width="900" height="1057" alt="Screenshot 2026-11-11 203303" src="https://github.com/user-attachments/assets/fa65b05b-fe41-4f10-bd67-03883dd7c5e8" />
